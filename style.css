@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/*視窗底色設定*/
+body{
+    background-color: #7286D3;
+}
+
+/*連結顏色設定*/
+a{
+    color: #EEE9DA;
+}
+a:hover{
+    color: #FFF2F2;
+}
+a:visited
+{
+    color: #00ff00;
+}
+
+/*頁面標題設定*/
+h1{
+    color: #adbb6f;
+    text-align: center;
+    font-size: 250%;
+}
+
+/*次標題設定*/
+h2{
+    color: #E5E0FF;
+    border: #94c8b1 1px dotted;
+    border-left: #d0135b 10px solid;
+    padding: 5px 20px;
+    margin-bottom: 0;
+}
+
+/*內容標題設定*/
+dt{
+    font-weight: bold;
+}
+
+/*引言區塊設定*/
+
+
+/*「更多(回景點)介紹」連結設定*/
+
+/*花色、性別（共通資料）*/
+
+
+/*依性別區分顏色*/
